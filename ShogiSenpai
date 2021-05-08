@@ -8,8 +8,8 @@
     "98": {
       "title": "The 98th move",
       "volume": "8",
-      "Harmless Monsters": {
-        "<group name>": "/proxy/api/imgur/chapter/M9vqNIM/"
+      "groups": {
+        "Harmless Monsters": "/proxy/api/imgur/chapter/M9vqNIM/"
       },
       "last_updated": "1619802000"
     }
