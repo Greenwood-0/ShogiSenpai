@@ -276,6 +276,30 @@
         "Harmless Monsters": "/proxy/api/imgur/chapter/OhgMlFO/"
       },
        "last_updated": "1635464731"
+    },
+    "125": {
+      "title": "The 125th move",
+      "volume": "9",
+      "groups": {
+        "Harmless Monsters": "/proxy/api/imgur/chapter/tc1KCPF/"
+      },
+       "last_updated": "1637001545"
+    },
+    "126": {
+      "title": "The 126th move",
+      "volume": "9",
+      "groups": {
+        "Harmless Monsters": "/proxy/api/imgur/chapter/kDn7LYE/"
+      },
+       "last_updated": "1637001545"
+    },
+    "127": {
+      "title": "The 127th move",
+      "volume": "9",
+      "groups": {
+        "Harmless Monsters": "/proxy/api/imgur/chapter/SGca1yT/"
+      },
+       "last_updated": "1637001545"
     }
   }
 }
