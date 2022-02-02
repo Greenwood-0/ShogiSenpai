@@ -367,7 +367,7 @@
     },
     "136": {
       "title": "The 136th move",
-      "volume": "9",
+      "volume": "11",
       "groups": {
         "Harmless Monsters": "/proxy/api/imgur/chapter/zhdoivK/"
       },
@@ -375,7 +375,7 @@
     },
     "137": {
       "title": "The 137th move",
-      "volume": "9",
+      "volume": "11",
       "groups": {
         "Harmless Monsters": "/proxy/api/imgur/chapter/hIRcUjZ/"
       },
@@ -383,7 +383,7 @@
     },
     "138": {
       "title": "The 138th move",
-      "volume": "9",
+      "volume": "11",
       "groups": {
         "Harmless Monsters": "/proxy/api/imgur/chapter/I2PHbqm/"
       },
@@ -396,6 +396,14 @@
         "Harmless Monsters": "/proxy/api/imgur/chapter/RZJ8wZb/"
       },
        "last_updated": "1643336593"
+    },
+    "139": {
+      "title": "The 139th move",
+      "volume": "11",
+      "groups": {
+        "Harmless Monsters": "/proxy/api/imgur/chapter/O2BoWdv/"
+      },
+       "last_updated": "1643786829"
     }
   }
 }
